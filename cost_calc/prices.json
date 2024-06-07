@@ -1,0 +1,14 @@
+{
+    "GPT-4o": {
+        "INPUT_COST_PER_1M_TOKEN": 5,
+        "OUTPUT_COST_PER_1M_TOKEN": 15
+    },
+    "gpt-3.5-turbo-0125": {
+        "INPUT_COST_PER_1M_TOKEN": 0.5,
+        "OUTPUT_COST_PER_1M_TOKEN": 1.5
+    },
+    "gpt-3.5-turbo-instruct": {
+        "INPUT_COST_PER_1M_TOKEN": 1.5,
+        "OUTPUT_COST_PER_1M_TOKEN": 2
+    }
+}
